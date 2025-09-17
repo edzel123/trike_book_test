@@ -127,7 +127,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['user_type'] !== 'driver') {
     <div class="settings">
       <button class="settings-btn">⚙ Settings</button>
       <div class="dropdown">
-        <a href="logout.php">Logout</a>
+        <a href="logout.php">Logouts</a>
       </div>
     </div>
   </div>
